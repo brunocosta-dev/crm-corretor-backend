@@ -1,38 +1,49 @@
-🚀 CRM para Corretores Independentes
-Um sistema de Gestão de Relacionamento com o Cliente (CRM) desenvolvido para que corretores tenham controle total sobre sua carteira, desde a prospecção inicial até o fechamento da venda.
+# 🏢 CRM Imobiliário - Gestão de Vendas
 
-📌 Sobre o Projeto
-Este projeto nasceu da necessidade de centralizar a gestão de leads e imóveis em uma única plataforma intuitiva. O objetivo é permitir que o corretor acompanhe o "termômetro" de cada negociação, garantindo que nenhum cliente seja esquecido no processo.
+![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Licença](https://img.shields.io/badge/license-MIT-green)
 
-Principais Funcionalidades:
-Gestão de Leads: Cadastro e segmentação de potenciais clientes.
+> Sistema completo para corretores de imóveis realizarem a gestão de ponta a ponta: do primeiro contato (prospecção) ao fechamento do contrato.
 
-Pipeline de Vendas: Visualização clara do estágio de cada negociação (Prospecção, Visita, Proposta, Fechamento).
+---
 
-Histórico de Interações: Registro de chamadas, e-mails e visitas realizadas.
+## 📑 Sobre o Projeto
 
-Dashboard de Performance: Métricas simples sobre conversão e vendas concluídas.
+Este projeto nasceu do desejo de unir o conhecimento teórico adquirido na faculdade com as demandas reais do mercado imobiliário. O foco é fornecer ao corretor uma ferramenta onde ele tenha o **controle total** do seu funil de vendas, garantindo organização e agilidade.
 
-🛠 Tecnologias Utilizadas
-Escolhi esta stack focando em robustez e modernidade:
+### Principais Diferenciais:
+* **Fluxo de Cadastramento:** Registro rápido de leads e interessados.
+* **Gestão de Pipeline:** Acompanhamento visual de em qual etapa a venda se encontra.
+* **Histórico Completo:** Centralização de todas as interações com o cliente.
 
-Back-end
-Linguagem: C#
+---
 
-Framework: .NET 8 (ou sua versão de preferência)
+## 🛠 Tecnologias e Ferramentas
 
-Motivação: Tecnologia aprendida durante a graduação, escolhida pela sua tipagem forte, performance e ampla adoção no mercado corporativo.
+Para este projeto, escolhi uma stack moderna e de alta performance:
 
-Front-end
-Framework: Vue.js 3
+| Camada | Tecnologia | Motivação |
+| :--- | :--- | :--- |
+| **Back-end** | **C# (.NET)** | Linguagem robusta que estudei na faculdade e me despertou grande interesse pela estrutura e escalabilidade. |
+| **Front-end** | **Vue.js** | Framework progressivo com alta demanda no mercado, escolhido pela flexibilidade e performance. |
+| **Banco de Dados**| **SQL Server / PostgreSQL** | Garantia de integridade dos dados e suporte a consultas complexas. |
 
-Ecossistema: Vite, Vue Router e Pinia (Store)
+---
 
-Motivação: Um framework progressivo que vem ganhando muito espaço pela sua curva de aprendizado suave e flexibilidade no desenvolvimento de SPAs (Single Page Applications).
+## 🏗 Estrutura da Solução
 
-🏗 Arquitetura do Sistema
-O sistema opera no modelo Client-Server:
+O projeto está dividido em duas partes principais:
 
-O Front-end (Vue) consome os dados via requisições HTTP (Axios).
+### ⚙️ Back-end (API)
+Desenvolvido em **C#**, focado em regras de negócio sólidas e segurança dos dados.
+* Padrão RESTful.
+* Injeção de dependência.
+* Entity Framework para persistência de dados.
 
-O Back-end (C#) processa as regras de negócio e persiste os dados.
+### 🎨 Front-end (Web)
+Interface desenvolvida com **Vue.js**, focada na experiência do usuário (UX).
+* Componentização.
+* Design Responsivo.
+* Gerenciamento de estado eficiente.
+
+---
