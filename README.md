@@ -23,5 +23,5 @@ você encontra informações sobre:
 ## 🎯 Objetivo do Projeto:
 O CRM Corretor Imobiliário foi projetado para elevar a eficiência operacional no setor de vendas. Através de ferramentas de monitoramento contínuo da esteira de conversão, o sistema permite uma gestão analítica do funil, oferecendo previsibilidade de receita e otimização da jornada do cliente, da captação ao fechamento.
 
-## Criador
+## 💻 Criador
 [![Developer](https://img.shields.io/badge/Developer-Bruno%20Costa-gree?style=for-the-badge&logo=github)](https://github.com/brunocosta-dev)
