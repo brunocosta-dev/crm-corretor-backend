@@ -10,7 +10,7 @@ Este sitema de CRM Imobiliário foi projetada para otimizar o ciclo de vida do c
 * **Gestão de Pipeline:** Acompanhamento visual de em qual etapa a venda se encontra.
 * **Histórico Completo:** Centralização de todas as interações com o cliente.
 
----
+
 ## 🎯 Objetivo do Projeto:
 
 O CRM Corretor Imobiliário foi projetado para elevar a eficiência operacional no setor de vendas. Através de ferramentas de monitoramento contínuo da esteira de conversão, o sistema permite uma gestão analítica do funil, oferecendo previsibilidade de receita e otimização da jornada do cliente, da captação ao fechamento.
