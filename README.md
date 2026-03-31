@@ -7,7 +7,7 @@ Este sitema de CRM Imobiliário foi projetada para otimizar o ciclo de vida do c
 
 
 ## 📂 Repositórios
-* Frontend: [crm-corretor-frontend-two](https://github.com/brunocosta-dev/crm-corretor-backend#)
+* Frontend: [crm-corretor-frontend-two](https://github.com/brunocosta-dev/crm-corretor-frontend-two)
 * Backend: [crm-corretor-backend](https://github.com/brunocosta-dev/crm-corretor-backend#)
 
 
