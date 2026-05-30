@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrmCorretor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7f3c6a771d840db21c653c72ac8b2638119d1e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+366455524b14114d525b8c81fd9ea5630b9e1048")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrmCorretor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrmCorretor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
